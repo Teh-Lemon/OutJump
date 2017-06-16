@@ -1,4 +1,3 @@
-# OutJump
-Endless Jumper made in Unreal 4.
+Endless Runner.
 
-Project started to learn how to use the Unreal engine.
+Project started to learn how to use the Unreal 4 engine.
